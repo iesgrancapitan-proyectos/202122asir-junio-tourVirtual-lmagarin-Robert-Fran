@@ -22,4 +22,4 @@ sesión en Kuula y reproducir allí su tour virtual, también nos lo podríamos 
 podremos reproducir el tour sin necesidad de entrar dentro de Kuula
 
 
-### Autores: Francico Jesus Moya Cañete & Robert Ionut Vaduva
+### Autores: Franciso Jesús Moya Cañete & Robert Ionut Vaduva
