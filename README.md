@@ -3,11 +3,11 @@
 **1. Descripción del proyecto**
 
 
-Nuestro proyecto se realizara con una cámara go pro max 360º y unas gafas VR (Oculus Quest 2), con este material realizaremos un tour virtual del aula TECA del 
+Nuestro proyecto se realizará con una cámara go pro max 360º y unas gafas VR (Oculus Quest 2). Se realizará un tour virtual del aula TECA del 
 centro, donde explicaremos los materiales que hay en ella (impresora 3D, Dron, Proyector 4K, etc), también usaremos un software para montar el tour virtual. 
 
 **2. Información de la creación**
-Este tour virtual se realizara con imágenes del aula TECA echas con la cámara 360º, estas imágenes serán editadas y montadas en Kuula, este es una plataforma web donde
+Este tour virtual se realizará con imágenes del aula TECA hechas con la cámara 360º, estas imágenes serán editadas y montadas en Kuula, este es una plataforma web donde
 puedes crear un tour 360º de forma gratuita aunque, esta plataforma tiene limitaciones ya que tiene una serie de suscripciones mensuales y anuales para obtener diferentes ventajas
 como por ejemplo musica de fondo, una vez creado el tour podremos visualizar este en un reproductor de tour virtuales o en nuestro caso en las gafas VR (Oculus Quest 2) con el 
 fin de tener un viaje más inmersivo.
